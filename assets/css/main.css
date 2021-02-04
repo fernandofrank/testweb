@@ -2883,7 +2883,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				width: 21em;
+				width: 15em;
 			}
 
 				#header > header {
@@ -2897,7 +2897,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 21em;
+				padding-right: 15em;
 			}
 
 		/* Main */
